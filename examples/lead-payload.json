@@ -1,0 +1,8 @@
+{
+  "lead_name": "Jane Smith",
+  "email": "jane@example.com",
+  "company": "Acme Technologies",
+  "company_size": "120 employees",
+  "budget": "15000 USD",
+  "lead_source": "Website contact form"
+}
